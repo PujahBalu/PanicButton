@@ -83,8 +83,17 @@ The application allows users to quickly send an SMS alert containing their **liv
 
 ---
 
+
 ## 👩‍💻 Authors
 
 Students, Dept. of Information Technology  
 Meenakshi Sundararajan Engineering College, Chennai, India
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) © 2024 Pujah Balasubramaniam.
+
+---
 
